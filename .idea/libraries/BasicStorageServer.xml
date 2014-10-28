@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BasicStorageServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ms2-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ms2-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
